@@ -1,0 +1,120 @@
+{
+  "items": [
+    {
+      "name": "Nuxt",
+      "link": "https://nuxt.com/",
+      "icon": "custom:nuxt-color"
+    },
+    {
+      "name": "Next",
+      "link": "https://nextjs.org/",
+      "icon": "custom:next-color"
+    },
+    {
+      "name": "Vue",
+      "link": "https://vuejs.org/",
+      "icon": "custom:vue-color"
+    },
+    {
+      "name": "Nest",
+      "link": "https://nestjs.com/",
+      "icon": "custom:nest-color"
+    },
+    {
+      "name": "TailwindCSS",
+      "link": "https://tailwindcss.com/",
+      "icon": "custom:tailwind-color"
+    },
+    {
+      "name": "Python",
+      "link": "https://www.python.org/",
+      "icon": "custom:python-color"
+    },
+    {
+      "name": "Vercel",
+      "link": "https://vercel.com/",
+      "icon": "custom:vercel"
+    },
+    {
+      "name": "Javascript",
+      "link": "https://www.javascript.com/",
+      "icon": "custom:js-color"
+    },
+    {
+      "name": "Php",
+      "link": "https://www.php.net/",
+      "icon": "custom:php-color"
+    },
+    {
+      "name": "React",
+      "link": "https://es.react.dev/",
+      "icon": "custom:react-color"
+    },
+    {
+      "name": "Notion",
+      "link": "https://www.notion.so/",
+      "icon": "custom:notion"
+    },
+    {
+      "name": "TypeScript",
+      "link": "https://www.typescriptlang.org/",
+      "icon": "custom:ts-color"
+    },
+    {
+      "name": "nodejs",
+      "link": "https://nodejs.org/en",
+      "icon": "custom:nodejs-color"
+    },
+    {
+      "name": "mongo",
+      "link": "https://www.mongodb.com/",
+      "icon": "custom:mongo-color"
+    },
+    {
+      "name": "postgress",
+      "link": "https://www.postgresql.org/",
+      "icon": "custom:pg-color"
+    },
+    {
+      "name": "mysql",
+      "link": "https://www.mysql.com/",
+      "icon": "custom:msql-color"
+    },
+    
+    {
+      "name": "Figma",
+      "link": "https://www.figma.com/",
+      "icon": "custom:figma-color"
+    },
+    {
+      "name": "Photoshop",
+      "link": "https://www.adobe.com/products/photoshop.html",
+      "icon": "custom:photoshop"
+    },
+    {
+      "name": "Illustrator",
+      "link": "https://www.adobe.com/products/illustrator.html",
+      "icon": "custom:illustrator"
+    },
+    {
+      "name": "Lightroom",
+      "link": "https://www.adobe.com/products/photoshop-lightroom.html",
+      "icon": "custom:lightroom"
+    },
+     {
+      "name": "Wordpress",
+      "link": "https://wordpress.com/es/",
+      "icon": "custom:wordpress-color"
+    },
+     {
+      "name": "GHL",
+      "link": "https://www.gohighlevel.com/556328b9",
+      "icon": "custom:ghl-color"
+    },
+     {
+      "name": "n8n",
+      "link": "https://n8n.io/",
+      "icon": "custom:n8n-color"
+    }
+  ]
+}

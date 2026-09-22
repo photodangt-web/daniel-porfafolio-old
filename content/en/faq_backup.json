@@ -1,0 +1,53 @@
+{
+  "title": "FAQ",
+  "subtitle": "Preguntas que me hacen mucho",
+  "faqQuestions": [
+    {
+      "title": "Servicios",
+      "questions": [
+        {
+          "title": "¿Qué servicios ofreces?",
+          "answer": "Ofrezco una gama de servicios que incluyen diseño web, desarrollo web, branding y fotografía. También puedo ayudar con SEO y marketing en redes sociales."
+        },
+        {
+          "title": "¿Puedes enseñarme cómo hacer un sitio web?",
+          "answer": "No ofrezco cursos en este momento, pero puedo recomendar recursos y consejos para ayudarte a sacar el máximo provecho de tu aprendizaje."
+        }
+      ]
+    },
+    {
+      "title": "Precios",
+      "questions": [
+        {
+          "title": "¿Cuánto cuesta un proyecto?",
+          "answer": "El costo de un proyecto depende de muchos factores, como el tamaño del proyecto, las características, el tiempo de desarrollo, etc. El monto inicial de mis servicios web empieza en 2000$ USD, con un promedio entre 3000$ USD y 10000$ USD. Para cualquier otro servicio de diseño o consultoría, normalmente cobro 75$ USD por día."
+        },
+        {
+          "title": "¿Cómo funciona el pago de un proyecto?",
+          "answer": "Solicito un depósito del 40% antes de comenzar un proyecto, y el 60% restante después de la entrega exitosa. Acepto pagos por transferencia bancaria, Pagos con tarjeta y visacoutas, etc."
+        },
+        {
+          "title": "¿Cuánto tiempo lleva un proyecto?",
+          "answer": "Es difícil dar una estimación exacta, ya que cada proyecto es diferente, pero la mayoría de mis trabajos anteriores han tardado entre 2 semanas y 2 meses."
+        },
+        {
+          "title": "¿Ofrecen descuentos?",
+          "answer": "Ofrezco un descuento del 15% para estudiantes y organizaciones sin fines de lucro y 25% para Iglesias."
+        }
+      ]
+    },
+    {
+      "title": "Personal",
+      "questions": [
+        {
+          "title": "¿Qué es lo que más disfrutas de este trabajo?",
+          "answer": "Me encanta aprender cosas nuevas y poder crear casi cualquier cosa desde cero, creando cosas hermosas que la gente usará y apreciará."
+        },
+        {
+          "title": "¿Pasatiempos fuera del trabajo?",
+          "answer": "Me encanta lo que hago, así que suelo pasar mucho tiempo trabajando en proyectos personales,  hacer ilustraciones y pasar tiempo aprendiendo más y más cada día"
+        }
+      ]
+    }
+  ]
+}
