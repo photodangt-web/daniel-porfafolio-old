@@ -26,7 +26,7 @@ export default defineNuxtConfig({
   css: ["~/assets/style/main.css"],
 
   site: {
-    url: "https://canvas.hrcd.fr",
+    url: process.env.NUXT_PUBLIC_SITE_URL || "https://portafolio-danieldeleon.vercel.app",
     defaultLocale: "es",
     indexable: true,
   },
@@ -75,8 +75,7 @@ export default defineNuxtConfig({
   },
 
   routeRules: {
-    // Needed to activate preview on Nuxt Studio
-    "/": { prerender: false },
+    "/": { prerender: true },
   },
 
   experimental: {
@@ -86,13 +85,15 @@ export default defineNuxtConfig({
   compatibilityDate: "2025-01-05",
 
   nitro: {
-    experimental: {
-      websocket: true,
-    },
     prerender: {
-      autoSubfolderIndex: false,
       crawlLinks: true,
-      routes: ["/"],
+      routes: [
+        "/",
+        "/works",
+        "/writing",
+        "/about",
+        "/contact",
+      ],
     },
   },
 
