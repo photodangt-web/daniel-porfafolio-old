@@ -17,7 +17,7 @@
   },
   "packageManager": "pnpm@10.20.0",
   "dependencies": {
-    "@nuxt/content": "^3.8.0",
+    "@nuxt/content": "^3.8.2",
     "@nuxt/devtools": "2.7.0",
     "@nuxt/image": "1.11.0",
     "@nuxt/scripts": "^0.13.0",
@@ -39,6 +39,9 @@
     "eslint": "9.38.0"
   },
   "pnpm": {
+    "overrides": {
+      "nuxt-component-meta": "0.14.2"
+    },
     "onlyBuiltDependencies": [
       "better-sqlite3",
       "sharp"
